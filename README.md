@@ -18,8 +18,8 @@ I am an aspiring **Artificial Intelligence and Machine Learning Engineer** passi
 - **Web Development:** HTML, CSS, ReactJS
 
 ## 📈 GitHub Stats
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshVahal&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshVahal&layout=compact&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbv3074&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbv3074&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-vahal)
