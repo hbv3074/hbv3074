@@ -8,14 +8,14 @@ I am an aspiring **Artificial Intelligence and Machine Learning Engineer** passi
 - **Deep Learning** 🤖
 
 ## 🏆 Roles & Leadership
-- **Social Media Head** at [PCCOE's GeeksforGeeks Student Chapter](https://github.com/PCCOE-GFGSC)
-- **Social Media Head** at [PCCOE's AiMSA](https://github.com/PCCOE-AiMSA)
+- **Social Media Head** at [PCCOE's GeeksforGeeks Student Chapter]
+- **Social Media Head** at [PCCOE's AiMSA]
 
 ## 🛠️ Tech Stack
-- **Programming Languages:** Python, C++, JavaScript
+- **Programming Languages:** Python, C++, JavaScript, C
 - **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-Learn
 - **Tools & Platforms:** OpenCV, EasyOCR, Hugging Face, Google Cloud, AWS
-- **Web Development:** HTML, CSS, ReactJS
+- **Web Development:** HTML, CSS
 
 ## 📈 GitHub Stats
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbv3074&show_icons=true&theme=radical)
