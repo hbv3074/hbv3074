@@ -8,8 +8,8 @@ I am an aspiring **Artificial Intelligence and Machine Learning Engineer** passi
 - **Deep Learning** 🤖
 
 ## 🏆 Roles & Leadership
-- **Social Media Head** at [PCCOE's GeeksforGeeks Student Chapter]
-- **Social Media Head** at [PCCOE's AiMSA]
+- **Social Media Head** at #PCCOE's GeeksforGeeks Student Chapter#
+- **Social Media Head** at #PCCOE's AiMSA#
 
 ## 🛠️ Tech Stack
 - **Programming Languages:** Python, C++, JavaScript, C
